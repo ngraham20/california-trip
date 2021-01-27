@@ -8,3 +8,5 @@ include:
   - engine-basics.md
   - readme.md
 
+
+theme: jekyll-theme-tactile
