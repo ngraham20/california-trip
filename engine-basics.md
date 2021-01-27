@@ -1,8 +1,7 @@
 # Engine Basics
 
 ## Contents
-
-+ [Group Leader](#group-leader)  
+ 
 + [Turn Phases](#turn-phases)  
 + [Attribute Tests](#attribute-tests)  
 + [Speed, Agility, and Strength](#speed,-agility,-and-strength)
@@ -10,18 +9,19 @@
 + [Investigation, Observation, and Opportunity](#investigation,-observation,-and-opportunity)
 + [Skills and Skill Aquisition](#skills-and-skill-aquisition)
 
-## Group Leader
-
-A **Group Leader** is an optional mechanic and may be designated by either the group or the **GM** at any time. The purpose of this role is to make time-intensive decisions when there isn't enough time to properly strategize.
-
 ## Turn Phases
-In the **Observation Engine**, players take their turn in any order desired, since everything that happens during a single round happens roughly simultaneously. Players may choose whether to complete an action or actions within this time, as long as they feel there is enough time to do so.
+In the **Observation Engine**, players take their turn in any order desired, since everything that happens during a single round does so roughly simultaneously. Players may choose whether to complete an action or actions within this time, as long as they feel there is enough time to do so.
 
-### Example:
+### Example 1:
 
 **Oberon** and **Tia** are both hiding behind a barrel, and they notice that a **Goblin Footsoldier** is walking their way. They know that when the goblin reaches them, they will be noticed. They estimate that the goblin will reach them in 20 seconds.
 
 The two players now have about 20 seconds of game time to account for. This is not enforced by a real life timer, but the **GM** may require that the players don't over-strategize or take too much time to figure out what to do. In cases like these, the **GM** may require the **Group Leader** or any single group member to decide without consulting the rest of the group. This creates a sense of tention that would be felt by a group in this situation.
+
+### Example 2:
+**Elenor** decides to stop dead in her tracks, aiming her assult rifle at the enormous, red dragon.She puts her eye to her scope and lifts the barrel of her weapon high, the dragon's scales rushing through her view. Without warning, the red turned to bright orange, and **Elenor** froze, and her blood turned cold. She had forgotten to make sure that the dragon was distracted, and she stood alone, in the middle of the room, with the dragon glaring down at her from above.
+
+Here, **Elenor** has clearly made a big mistake. The dragon is fully aware of her presence. Since the dragon and the player are more or less taking their turn simultaneously, if **Elenor** chooses to fire at the dragon, it will immediately strike her down. Therefore, her only hope of survival is to run, hide, and hope that her friends had made better decisions.
 
 ## Attribute Tests
 
@@ -35,9 +35,7 @@ These three attributes dictate the physical attributes of a character and are di
 - **Strength** indicates raw physical strength, affecting the weapons that a character can use, how hard they hit, and how high they can jump.
 
 ## Charisma, Wisdom, and Intelligence
-These three attributes don't have any true effect on the game and are instead **keywords** that describe which attribute is important for passing certain **skill tests**.
-
-Unlike in other tabletop RPGs, these skills are not represented on the **character sheet**, but are instead influenced by the way that a player interacts with an NPC or another player.
+These three attributes are not represented on the **character sheet**, and are instead keywords that describe which attribute is important for passing certain **skill tests**.
 
 ### Example
 **Elgrim** has been caught on camera after hours at a bank, the player, acting as the character, must attempt to give a good explaination to the security guard (the **GM**) as to why he was there. **Charisma** and **Intelligence** are important attributes here. **Elgrim** might know that the guard is new here and might not know if a new employee has been hired or not, so he decides to lie through his teeth. This would be an **intelligence** check. If **Elgrim** instead attempts to flirt with the guard and comment on how he must work out a lot, that would be a **charisma** check. In both of these cases, the **GM** simply rates how convincing the player was against the respective stats of the guard. Of course, a more convincing lie or a more believable flirt will score higher.
