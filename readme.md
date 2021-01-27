@@ -2,6 +2,7 @@
 
 The only chances involved are the ones you take yourself.
 
-## Contents
+## Pages
 
-[Engine Basics](engine-basics.md#engine-basics)
+[Engine Basics](engine-basics.md#engine-basics)  
+[Enemies](enemies.md#enemies)
