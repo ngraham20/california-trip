@@ -4,9 +4,9 @@
  
 + [Turn Phases](#turn-phases)  
 + [Attribute Tests](#attribute-tests)  
-+ [Speed, Agility, and Strength](#speed,-agility,-and-strength)
-+ [Charisma, Wisdom, and Intelligence](#charisma,-wisdom,-and-intelligence)
-+ [Investigation, Observation, and Opportunity](#investigation,-observation,-and-opportunity)
++ [Speed Agility and Strength](#speed-agility-and-strength)
++ [Charisma Wisdom and Intelligence](#charisma-wisdom-and-intelligence)
++ [Investigation Observation and Opportunity](#investigation-observation-and-opportunity)
 + [Skills and Skill Aquisition](#skills-and-skill-aquisition)
 
 ## Turn Phases
