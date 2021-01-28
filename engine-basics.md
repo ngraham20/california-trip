@@ -14,6 +14,8 @@ title: Engine Basics
 ## Turn Phases
 In the **Observation Engine**, players take their turn in any order desired, since everything that happens during a single round does so roughly simultaneously. Players may choose whether to complete an action or actions within this time, as long as they feel there is enough time to do so.
 
+![Dragon](./assets/dragon.jpg)
+
 ### Example 1:
 
 **Oberon** and **Tia** are both hiding behind a barrel, and they notice that a **Goblin Footsoldier** is walking their way. They know that when the goblin reaches them, they will be noticed. They estimate that the goblin will reach them in 20 seconds.
