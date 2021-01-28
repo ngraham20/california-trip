@@ -1,4 +1,3 @@
-## Pages
+# Observation Engine
 
-[Engine Basics](engine-basics.md)  
-[Enemies](enemies.md)
+The only chances involved are the ones you take yourself
