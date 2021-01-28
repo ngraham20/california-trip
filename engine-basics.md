@@ -14,7 +14,7 @@ title: Engine Basics
 ## Turn Phases
 In the **Observation Engine**, players take their turn in any order desired, since everything that happens during a single round does so roughly simultaneously. Players may choose whether to complete an action or actions within this time, as long as they feel there is enough time to do so.
 
-![Dragon](./assets/dragon-shading.jpg)
+![Cyborg](./assets/fantasy-cyborg.jpg)
 
 ### Example 1:
 
@@ -26,6 +26,8 @@ The two players now have about 20 seconds of game time to account for. This is n
 **Elenor** stops dead in her tracks, aiming her assult rifle at the enormous, red dragon. She puts her eye to her scope and lifts the barrel of her weapon high, the dragon's scales rushing across her view. Without warning, the red turned to bright orange, and **Elenor** froze, and her blood turned cold. She had forgotten to make sure that the dragon was distracted, and she stood alone, in the middle of the room, with the dragon glaring down at her from above.
 
 Here, **Elenor** has clearly made a big mistake. The dragon is fully aware of her presence. Since the dragon and the player are more or less taking their turn simultaneously, if **Elenor** chooses to fire at the dragon, it will immediately strike her down. Her only hope of survival now is to run, hide, and hope that her friends had made better decisions.
+
+![Dragon](./assets/dragon-shading.jpg)
 
 ## Attribute Tests
 
