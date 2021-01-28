@@ -1,5 +1,7 @@
-# Enemies
-
+---
+layout: page
+title: Enemies
+---
 **Enemies**, like **players** can have **armor**, **weapons**, **shields**, and any other abilities that a player might have. This makes even standard enemies potentially difficult to defeat.
 
 - **Armor** protects an enemy from various types of attacks which land upon it. If a **slash** type sword strikes against **chainmail** for instnace, the attack will deal little to no damage. However, chainmail would not be a good defense against weapons that **pierce**, such as a **rapier** or a **spear**.

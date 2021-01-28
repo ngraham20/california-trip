@@ -1,5 +1,7 @@
-# Engine Basics
-
+---
+layout: page
+title: Engine Basics
+---
 ## Contents
  
 + [Turn Phases](#turn-phases)  
@@ -42,6 +44,8 @@ These three attributes are not represented on the **character sheet**, and are i
 
 ---
 **Note:** The goal here is not necessarily to be a good actor, though that can certainly help. It is up to the **GM** to decide whether acting skills will or will not affect the test result based on what they know about the player. It is not recommended to require new or shy players to act boldly, instead rating the interaction off the words said.
+
+---
 
 ## Investigation, Observation, and Opportunity
 The mechanics of these last three attributes are less straightforward than the previous six. The basic idea here is that the more that a player understands about a given character, the better equiped they are to handle a situation involving them. For example, knowing that an **NPC** has recenly lost a loved one may mean they're more likely to sympathize with someone in a similar situation, which is an **emotional weakness** that may be exploited. Or, knowing a certain enemy's weak spot may help sway a fight. Types of knowledge a character might have include **personality**, **mood**, **strengths**, and **weaknesses**.
