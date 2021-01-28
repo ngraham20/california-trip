@@ -14,7 +14,7 @@ title: Engine Basics
 ## Turn Phases
 In the **Observation Engine**, players take their turn in any order desired, since everything that happens during a single round does so roughly simultaneously. Players may choose whether to complete an action or actions within this time, as long as they feel there is enough time to do so.
 
-![Dragon](./assets/dragon.jpg)
+![Dragon](./assets/dragon-shading.jpg)
 
 ### Example 1:
 
