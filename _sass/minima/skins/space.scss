@@ -1,16 +1,52 @@
 @charset "utf-8";
 
-$brand-color:           #913232 !default;
+// /* SCSS HEX */
+// $outer-space-crayola: #0b1416;
+// $puce: #c48b9fff;
+// $dark-sky-blue: #78b5c4ff;
+// $silver: #c4c4c4ff;
+$misty-moss: #b8b270ff;
+
+// /* SCSS Gradient */
+// $gradient-top: linear-gradient(0deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-right: linear-gradient(90deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-bottom: linear-gradient(180deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-left: linear-gradient(270deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-top-right: linear-gradient(45deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-bottom-right: linear-gradient(135deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-top-left: linear-gradient(225deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-bottom-left: linear-gradient(315deg, #1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+// $gradient-radial: radial-gradient(#1e353bff, #c48b9fff, #78b5c4ff, #c4c4c4ff, #b8b270ff);
+
+/* SCSS HEX */
+$rich-black-fogra-29: #080D11ff;
+$pewter-blue: #57a2c0;
+$silver-sand: #B6BEC3ff;
+$pastel-pink: #E89A95ff;
+$camel: #cfaa77;
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-right: linear-gradient(90deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-bottom: linear-gradient(180deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-left: linear-gradient(270deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-top-right: linear-gradient(45deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-bottom-right: linear-gradient(135deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-top-left: linear-gradient(225deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-bottom-left: linear-gradient(315deg, #080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+$gradient-radial: radial-gradient(#080D11ff, #7AA9BBff, #B6BEC3ff, #E89A95ff, #BC9A6Cff);
+
+$brand-color:           $silver-sand !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
 
 $site-title-color:      $brand-color-light !default;
 
-$text-color:            #bbbbbb !default;
-$background-color:      #181818 !default;
-$code-background-color: #212121 !default;
+$text-color:            $silver-sand !default;
+$background-color:      $rich-black-fogra-29 !default;
+$code-background-color: $rich-black-fogra-29 !default;
 
-$link-base-color:       #f1c663 !default;
+$link-base-color:       $pastel-pink !default;
 $link-visited-color:    $link-base-color !default;
 $link-hover-color:      $text-color !default;
 
@@ -25,45 +61,12 @@ $table-header-border:   lighten($background-color, 21%) !default;
 $table-border-color:    $border-color-01 !default;
 
 strong {
-  color: #f1c663;
+  color: $pewter-blue;
 }
 
 h1, h2 {
-  // color: #2a7db4;
-  color: #913232
+  color: $misty-moss;
 }
-
-/* SCSS HEX */
-$smoky-black: #14110fff;
-$byzantium: #832161ff;
-$ash-gray: #c9cebdff;
-$outrageous-orange: #fc7753ff;
-$blue-sapphire: #19647eff;
-
-/* SCSS HSL */
-$smoky-black: hsla(24, 14%, 7%, 1);
-$byzantium: hsla(321, 60%, 32%, 1);
-$ash-gray: hsla(78, 15%, 77%, 1);
-$outrageous-orange: hsla(13, 97%, 66%, 1);
-$blue-sapphire: hsla(195, 67%, 30%, 1);
-
-/* SCSS RGB */
-$smoky-black: rgba(20, 17, 15, 1);
-$byzantium: rgba(131, 33, 97, 1);
-$ash-gray: rgba(201, 206, 189, 1);
-$outrageous-orange: rgba(252, 119, 83, 1);
-$blue-sapphire: rgba(25, 100, 126, 1);
-
-/* SCSS Gradient */
-$gradient-top: linear-gradient(0deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-right: linear-gradient(90deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-bottom: linear-gradient(180deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-left: linear-gradient(270deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-top-right: linear-gradient(45deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-bottom-right: linear-gradient(135deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-top-left: linear-gradient(225deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-bottom-left: linear-gradient(315deg, #14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
-$gradient-radial: radial-gradient(#14110fff, #832161ff, #c9cebdff, #fc7753ff, #19647eff);
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"

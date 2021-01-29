@@ -34,7 +34,7 @@ description: The only chances involved are the ones you take yourself.
 # Build settings
 theme: minima
 minima:
-  skin: midnight
+  skin: space
 
 header_pages:
   - engine-basics.md
