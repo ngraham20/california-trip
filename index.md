@@ -5,10 +5,9 @@
 layout: home
 title: California Dreamin
 ---
-
-California Dreamin'
-
 # Places to visit
+
+> ![Spongebob in Paris][paris]
 
 ## San Fransisco
 - California Academy of Sciences
@@ -39,3 +38,22 @@ California Dreamin'
 - Iguana Home of the Burritozilla
 - Sushirito
 - Marie's Ice Cream
+
+# Tentative Schedule
+![planegif][planegif]
+
+## Friday July 2nd
+- N&K arrive @ 1600
+- James arrives @ 1650
+
+## Saturday July 3rd
+- Hannah arrives @ 1200
+- Egypt museum
+- Escape Room
+- Dinner
+- (Santa Cruz) beach sunset episode
+![][beach]
+
+[paris]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHxSUHYHVh3s%2Fmaxresdefault.jpg&f=1&nofb=1
+[planegif]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oKHWeJKDDUu4CCq9W%2Fgiphy.gif&f=1&nofb=1
+[beach]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-08534185f3482cc687dfbc3f2d2558ae-c&f=1&nofb=1

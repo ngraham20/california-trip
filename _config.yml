@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Observation Engine
+title: California Fun Times!
 author:
   name: Nathaniel Graham
   email: nathaniel.graham@protonmail.com
@@ -26,7 +26,7 @@ social_links:
     twitter: ngraham114
     github: ngraham20
     stackoverflow: "11997058"
-description: The only chances involved are the ones you take yourself.
+description: If you're not going to In N Out on a California trip, what are you even doing?
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  ngraham20
@@ -36,9 +36,7 @@ theme: minima
 minima:
   skin: space
 
-header_pages:
-  - engine-basics.md
-  - enemies.md
+#header_pages:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
