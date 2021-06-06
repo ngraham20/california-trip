@@ -61,16 +61,23 @@ title: California Dreamin
 - Redwood National Forrest
 - Lunch
 - SF Pier
+- Dinner at home with Le Grahams
 
 ## Monday July 5th
-- San Fransisco or San Jose
+- California Academy of Sciences
+- Lunch
+- Exploratorium
 
 ## Tuesday July 6th
-- Monterey Aquarium
-- Dip N Dots
-- Point Lobos
+- Monterey Bay Aquarium
+- Lunchs & Dip N Dots
+- Dinner Someplace
+- Point Lobos For Sunset
 
 ## Wednesday July 7th
+- Beach Day 2: Kinetic Bungaloo
+- San Jose Museum of Art
+- Escape room
 - Hannah departs @ 2100
 ## Thursday July 8th
 ## Friday July 9th
