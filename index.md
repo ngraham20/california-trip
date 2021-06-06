@@ -48,11 +48,32 @@ title: California Dreamin
 
 ## Saturday July 3rd
 - Hannah arrives @ 1200
-- Egypt museum
+- Rosicrucian Museum
 - Escape Room
 - Dinner
 - (Santa Cruz) beach sunset episode
 ![][beach]
+
+## Sunday July 4th
+- Redwood National Forrest
+- Lunch
+- SF Pier
+
+## Monday July 5th
+- San Fransisco or San Jose
+
+## Tuesday July 6th
+- Monterey Aquarium
+- Dip N Dots
+- Point Lobos
+
+## Wednesday July 7th
+- Hannah departs @ 2100
+## Thursday July 8th
+## Friday July 9th
+## Saturday July 10th
+## Sunday July 11th
+- James departs @ 1400
 
 [paris]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHxSUHYHVh3s%2Fmaxresdefault.jpg&f=1&nofb=1
 [planegif]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oKHWeJKDDUu4CCq9W%2Fgiphy.gif&f=1&nofb=1
