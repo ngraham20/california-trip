@@ -30,6 +30,9 @@ title: California Dreamin
 - Surfing
 - Mystery Spot
 
+## Misc
+- Castle Rock State Park
+
 ## Food to eat
 - Pizza My Heart
 - In N Out
