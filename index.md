@@ -15,29 +15,29 @@ title: California Dreamin
 ## Saturday July 3rd : Arrivals, San Jose, Santa Cruz
 - Hannah arrives `@1200`
 - Lunch at [Iguana Home of the Burritozilla][iguana]
-- [Rosicrucian Museum][museum], `(`Reservation before `@1800)`
+- [Rosicrucian Museum][museum], `(Reservation before @1800)`
 - [Sockshop and Shoe Company][sockshop]
 - Dinner in Santa Cruz (Pizza My Heart, Marianne's Ice Cream)
 - Be at the beach by `@2200` to watch the sunset over the ocean
 ![beach][beach]
 
 ## Sunday July 4th : San Fransisco
-- Leave house by `@0845`, one hour drive to [Redwood National Forest][redwood], **Parking reservation `@1000`
+- Leave house by `@0845`, one hour drive to [Redwood National Forest][redwood], `(Parking reservation @1000)`
 - Lunch in SF
-- [Exploratorium][exploratorium], `(`Reservation `@1400)`
+- [Exploratorium][exploratorium], `(Reservation @1400)`
 - Dinner at home with Le Grahams, probably around `@1800`
 
 ## Monday July 5th : San Fransisco
 - Leave the house by `@0800`, one hour drive
 - [Fisherman's Warf, Pier 39][pier39], `(@0900 - @1130)`
 - Lunch in SF
-- [California Academy of Sciences][sciences], `(`Reservation `@1230)`
+- [California Academy of Sciences][sciences], `(Reservation @1230)`
 - Dinner in SF, [Sushirito][sushirito]
 - [The Escape Game SF][escape]
 
 ## Tuesday July 6th : Monterey
 - Leave the house by `@0930`, for a `1.25` hour drive
-- [Monterey Bay Aquarium][aquarium], `(`Reservation `@1100)`
+- [Monterey Bay Aquarium][aquarium], `(Reservation @1100)`
 - Lunch in Monterey (In N Out is possibly too far away, `15` minute drive)
 - [Dip N Dots][dots]
 - Dinner Someplace
@@ -46,7 +46,7 @@ title: California Dreamin
 ## Wednesday July 7th : Santa Cruz
 - Leave house by `@0900`, for a `45` minute drive
 - Good beach for surfing (**tentative due to surf report**)
-- [Santa Cruz Mystery Spot][mystery], `(`Reservation `@1500`, `$5` cash for parking`)`
+- [Santa Cruz Mystery Spot][mystery], `(Reservation @1500, $5 cash for parking)`
 - Karisa's Birthday Dinner `@1700` at le Grahams house
 - Hannah departs `@2100` from **SJC**
 
@@ -59,13 +59,13 @@ title: California Dreamin
 > ![Spongebob in Paris][paris]
 
 ## San Fransisco
-- California Academy of Sciences (`Mon-Sat 0930-1700, Sun 1100-1700`)
-- Redwood National Park (`1000 Parking Reservation`)
+- California Academy of Sciences `(Mon-Sat 0930-1700, Sun 1100-1700)`
+- Redwood National Park `(1000 Parking Reservation)`
 
 ## Monterey
-- Monterey Bay Aquarium (`1030-1700`)
-- Dip N Dots Factory (`1200-1800`)
-- Point Lobos Beach (`2000-1900`)
+- Monterey Bay Aquarium `(1030-1700)`
+- Dip N Dots Factory `(1200-1800)`
+- Point Lobos Beach `(2000-1900)`
 - Big Sur
 
 ## San Jose
